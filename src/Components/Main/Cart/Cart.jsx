@@ -6,7 +6,7 @@ export default function Cart() {
             <li>
                 <img
                     className="cart--item-icon"
-                    src="<img src={`./assets/${001-betroot}.svg`}"
+                    src="../../assets/icons/001-beetroot.svg" alt="beetroot"
                 // alt="beetroot"
                 />
                 <p>beetroot</p>
